@@ -19,5 +19,5 @@ def longestPalindrome(s: str) -> str:
     return result
 
 
-str = "cbbd"
+str = "babad"
 print(longestPalindrome(str))
